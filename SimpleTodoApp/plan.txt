@@ -1,0 +1,7 @@
+- Opprette database fra script
+- Teste applikasjon
+- Gå gjennom koden
+- Se på kommunikasjon mellom frontend og backend
+  - Chrome arkfane Network
+  - Swagger
+  - HTTP files
