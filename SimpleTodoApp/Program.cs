@@ -32,7 +32,7 @@ app.MapDelete("/todo/{id}", async (Guid id) =>
 {
     var conn = new SqlConnection(connStr);
     const string sql = "DELETE FROM Todo WHERE Id = @Id";
-    var rowsAffected = await conn.ExecuteAsync(sql, new {Id=id} );
+    var rowsAffected = await conn.ExecuteAsync(sql, new { Id = id });
     return rowsAffected;
 });
 
