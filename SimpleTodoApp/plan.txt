@@ -5,3 +5,5 @@
   - Chrome arkfane Network
   - Swagger
   - HTTP files
+  - Se på oppdeling av logikk og API
+  - Reflection

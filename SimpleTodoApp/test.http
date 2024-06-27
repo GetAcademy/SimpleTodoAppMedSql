@@ -1,10 +1,10 @@
 # For more info on HTTP files go to https://aka.ms/vs/httpfile
 
-GET https://localhost:7162/terje
+GET https://localhost:7162/todo
 
 ###
 
-POST https://localhost:7162/terje
+POST https://localhost:7162/todo
 Content-Type: application/json
 Accept-Language: en-US,en;q=0.5
 
